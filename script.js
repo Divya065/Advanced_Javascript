@@ -283,8 +283,8 @@
 // }
 // doFlexiblestuff(functionVariable);
 
-let youGotThis=function(){
-    console.log("You are doing really well, keep coding!");
-};
+// let youGotThis=function(){
+//     console.log("You are doing really well, keep coding!");
+// };
 // setTimeout(youGotThis,4000);
-setInterval(youGotThis,1000)
+// setInterval(youGotThis,1000)
