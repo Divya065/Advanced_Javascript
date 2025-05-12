@@ -154,3 +154,5 @@ console.log(motor.color);
 console.log(motor.maxspeed);
 motor.accelerate(50);
 motor.move();
+
+//                          *******************PROTOTYPES*****************
